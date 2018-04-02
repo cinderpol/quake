@@ -1,1 +1,3 @@
 const district = []
+
+const locale = []
